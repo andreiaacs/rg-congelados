@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "rg-congelados"
+    }
+  },
+  "defaultProject": "rg-congelados",
+  "cli": {
+    "analytics": "72f1e8b7-b608-4546-9832-611321811a40"
+  }
 }
